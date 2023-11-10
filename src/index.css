@@ -15,3 +15,9 @@ body {
 code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
+
+.button-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; /* Adjust the space between buttons as needed */
+}
