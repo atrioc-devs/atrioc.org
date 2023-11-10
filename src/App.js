@@ -34,7 +34,7 @@ const Content = ({ toggle }) => {
                     <p className="text-2xl font-black">Atrioc Chat Labor Union's goal is simple. Criminal justice, chatter's right to message freely, and chatter's right to vote - these are crucial issues, and we're standing up for our freedoms against a corrupt streamer. Join today and fuel our fight back in Twitch chat, Discord channels, and YouTube comment sections.</p>
                     <div class="button-container">
                         <DiscordButton theme="light" toggle={toggle} svgText="DISCORD"/>
-                        <MusicButton theme="light" svgText="ATRIARCHY STUDIOS MUSIC"/>
+                        <MusicButton theme="light" svgText="ATRIARCHY STUDIOS"/>
                     </div>
                 </div>
             </div>
